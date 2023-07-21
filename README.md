@@ -16,10 +16,10 @@ Nothing! This project is fully implemented and tested.
 
 ## Usage
 
-Run <b>Roman</b> with Go on the command line:
+Run <b>deece-romans</b> with Go on the command line:
 
 ```
-$ go run roman.go
+$ go run deece-romans.go
 ```
 
 In order to run tests (*i.e.* any files ending with `_test.go`) at the command line, run the `go test` command &mdash; with or without the `-v` verbose flag option.
