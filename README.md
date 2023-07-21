@@ -6,7 +6,7 @@
 
 <ins>__Completed on__</ins>: February 8th, 2023
 
-<b>Roman</b> is a script that converts decimal numbers to roman numerals (and vice versa). It is a port of the CPAN-package [Roman](https://metacpan.org/pod/Roman), V1.24. 
+<b>deece-romans</b> is a (deece) script that converts (deece)imal numbers to roman numerals (and vice versa). It is a port of the CPAN-package [Roman](https://metacpan.org/pod/Roman), V1.24. 
 
 Implementation is based on source code from [Chonla's Git repo](https://github.com/chonla/roman-number-go).
 
